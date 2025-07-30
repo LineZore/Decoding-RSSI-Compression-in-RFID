@@ -171,10 +171,3 @@ Each `.txt` file (e.g., `9640.txt`, `R6P.txt`, `U8.txt`) contains RSSI readings 
   - Correspond to TX powers from **10 dBm to 32.5 dBm**
   - Power step: **0.25 dBm**
 
----
-
-###  Notes
-
-- This is a partial dataset and is provided for reproducibility and demonstration only.
-- For full experiments, please refer to the datasets and methods described in the paper.
-
